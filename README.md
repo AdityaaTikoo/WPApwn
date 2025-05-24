@@ -1,6 +1,6 @@
 # 🚀 WPApwn
 
-![WPApwn Banner](https://user-images.githubusercontent.com/yourusername/WPApwn/wifi-hack.png)  
+![WPApwn Banner](https://github.com/AdityaaTikoo/WPApwn/blob/main/wifi-hack.png)  
 
 ---
 
